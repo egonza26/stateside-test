@@ -1,5 +1,5 @@
 # Description
-Technical test for a Mobile Dev position
+Technical test
 
 # Technology
 
