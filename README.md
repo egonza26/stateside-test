@@ -1,5 +1,3 @@
-[Spry: Native Swift 3 App]
-
 # Description
 Technical test for a Mobile Dev position
 
